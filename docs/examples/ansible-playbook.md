@@ -12,7 +12,7 @@ You will require the following tools to install k0s on local virtual machines:
 |:----------------------|:------------------------------------------|
 | `multipass`  | A lightweight VM manager that uses KVM on Linux, Hyper-V on Windows, and hypervisor.framework on macOS. [Installation information](https://multipass.run/docs)|
 | `ansible`          | An infrastructure as code tool. [Installation Guide](https://docs.ansible.com/ansible/latest/installation_guide/index.html) |
-| `kubectl`             | Command line tool for running commands against Kubernetes clusters.  [Kubernetes Install Tools](https://docs.ansible.com/ansible/latest/installation_guide/index.html) |
+| `kubectl`             | Command line tool for running commands against Kubernetes clusters.  [Kubernetes Install Tools](https://kubernetes.io/docs/tasks/tools/) |
 
 ## Create the cluster
 
